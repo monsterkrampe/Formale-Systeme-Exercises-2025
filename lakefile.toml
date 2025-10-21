@@ -1,0 +1,6 @@
+name = "FormaleSystemeExercises2025"
+version = "0.1.0"
+defaultTargets = ["FormaleSystemeExercises2025"]
+
+[[lean_lib]]
+name = "FormaleSystemeExercises2025"

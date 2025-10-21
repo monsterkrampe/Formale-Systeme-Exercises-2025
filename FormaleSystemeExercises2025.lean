@@ -1,3 +1,2 @@
--- This module serves as the root of the `FormaleSystemeExercises2025` library.
--- Import modules here that should be built as part of the library.
-import FormaleSystemeExercises2025.Basic
+import FormaleSystemeExercises2025.Exercises.Exercise01
+

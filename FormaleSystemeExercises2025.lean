@@ -1,2 +1,3 @@
 import FormaleSystemeExercises2025.Exercises.Exercise01
+import FormaleSystemeExercises2025.Exercises.Exercise02
 
